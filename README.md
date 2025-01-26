@@ -1,1 +1,1 @@
-# excel-
+The dataset contains 13,435 bookings, generating a total revenue of ₹899.72 million, with ₹150.64 million lost due to cancellations. Lonavala is the top-performing region, contributing ₹347.41 million in revenue but also facing the highest cancellations worth ₹57.99 million. Overall, room utilization reached 29,209 nights, with 4,800 nights lost to cancellations.
